@@ -12,5 +12,5 @@ O Let me Ask é projeto feito na na NLW Together onde aprendemos a usar o ReactJ
 </h4>
 
 <p align="center"> 
-  <a href="https://res.cloudinary.com/murilloborges/video/upload/v1626344936/Let_me_Ask_mhyvzv.mp4> </a>
+  <img alt="Demo" src="https://res.cloudinary.com/murilloborges/image/upload/v1626345325/Let-me-Ask_llauve.gif">
 </p>
