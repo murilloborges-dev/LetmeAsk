@@ -3,6 +3,6 @@ O Let me Ask é projeto feito na na NLW Together onde aprendemos a usar o ReactJ
 
 
 <h1 align="center"> 
-  <img alt="logoLetmeAsk" src="https://drive.google.com/file/d/1sNXBD6vYdBVTFyajFNFHJ3ITFsVZEx5L/view?usp=sharing" />
+  <img alt="logoLetmeAsk" src="https://res.cloudinary.com/murilloborges/image/upload/v1626344714/logo_vudv51.svg" />
   <br>
 </h1>
